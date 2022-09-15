@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+
+  "name": "Fake_news_detector",
+  "description": "Fake_news_detector",
+  "version": "1.0",
+  "content_scripts":[
+    {
+      "matches":["<all_urls>"],
+      "js":["index.js"],
+      "css":["tooltip.css"]
+    }
+  ],
+  "host_permissions":[
+    "https://summary-h24fed2hha-el.a.run.app/",
+    "https://*/"
+  ],
+  "permissions":[
+    "storage","activeTab",
+    "https://summary-h24fed2hha-el.a.run.app/","https://n.news.naver.com"
+  ]
+}
