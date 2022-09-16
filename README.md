@@ -6,8 +6,8 @@
 
 <h1 align="center">
   <br>
-<!--   <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Markdownify" width="200"></a>
-  <br> -->
+  <a><img src="https://user-images.githubusercontent.com/40743105/190645078-09a24278-d0a9-4bcf-ba6f-6ed74d86c8d2.png" alt="Markdownify" width="500" style=```border-radius:70px;```></a>
+  <br>
   낚시성 기사 판별을 위한 크롬 확장 프로그램
   <br>
 </h1>
