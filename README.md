@@ -75,5 +75,6 @@ $ git clone  https://github.com/rlarlgnszx/Fake_news_Chrome_Extension.git
 ### End. Go to News site And Wait Untill it summary News And detect the Fake News!
 
 
-
+백엔드, 크롬익스텐션 부분 = 김기훈
+AI 모델 , 크롤링 = 안제준 
 
